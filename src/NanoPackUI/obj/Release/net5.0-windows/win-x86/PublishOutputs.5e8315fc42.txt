@@ -1,0 +1,12 @@
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\NanoPack UI (draft).pdb
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\Images\NanoPack_Logo.png
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\clrcompression.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\clrjit.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\coreclr.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\mscordaccore.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\D3DCompiler_47_cor3.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\PenImc_cor3.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\PresentationNative_cor3.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\vcruntime140_cor3.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\wpfgfx_cor3.dll
+C:\Users\dbids\Documents\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\publish\NanoPack UI (draft).exe

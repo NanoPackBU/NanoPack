@@ -1,0 +1,99 @@
+# Universal Truths
+physical:
+  chip: #dim of chip in mm
+    x: 9.5
+    y: 9.5
+  constraints:
+    traveler:
+      x: -1.1 #mm
+    clamshell_r1_top: 276.3
+    clamshell_r2_top: 215
+    clamshell_r3_top: 154.6
+    clamshell_r4_top: 95.2
+    clamshell_r1_center: 259
+    clamshell_r2_center: 200
+    clamshell_r3_center: 137
+    clamshell_r4_center: 73
+  traveler: # size of the traveller in mm
+    x: 114.3
+    y: 114.3
+    inner:
+        x_offset: 11.8 # distance from top left corner of the traveler to the top left corner of the first chip in x in mm
+        y_offset: 10.6 # distance from top left corner of the traveler to the top left corner first chip in y in mm
+        x_inter: 11.15 # the distance between chips on the inside of the traveler in mm
+        y_inter: 11.15 # the distance between chips on the inside of the traveler in mm
+        x_within: 10.15 # the total amount of x space within the traveler slot
+        y_within: 10.15 # the total amount of y space within the traveler slot
+  clam_shell:
+    y: 48.26
+    x_open: 101.6
+    x_close: 50.8
+    inner:
+        x_offset: 8     # distance from top left corner of the clamshell to the top left corner of the first chip in x in mm
+        y_offset: 0.65  # distance from top left corner of the clamshell to the top left corner of the first chip in x in mm
+        x_inter: 22.4   # the distance between chips on the inside of the clamshell in mm
+        y_inter: 22.4   # the distance between chips on the inside of the clamshell in mm
+        x_within: 10.15 # the total amount of x space within the clamshell slot
+        y_within: 10.15 # the total amount of y space within the clamshell slot
+  traveler_box: # the area that the travelers sit inside
+    x: 152.4
+    y: 304.8
+  clam_shell_box: # the area that the clamshells sit inside
+    x: 340
+    y: 304.8
+  tinyg_units_conversion_fac:
+    x: 0.032 # tuned
+    y: 0.032 # tuned
+    z: 0.166 # not tuned (but keep)
+machine:
+  work_area_offset: # the distance from the zero point to the work area in mm
+    x: 68.58
+    y: -13.05
+    z: 1
+  distance_to_center_cam: # distance from the offset from the zero on the machine to the center of the camera in mm
+    x: 120 #106.68
+    y: -35
+  distance_to_actuator: # distance from the offset from the zero on the machine to the actuator tip. mm
+    tweezer:
+      z: 26
+    vacuum:
+      z: 30
+  distance_from_chip_to_actuator: # distance from the cam to the actuator in mm
+    tweezer:
+      x: 94.5
+      y: 63.5
+    vacuum:
+      x: 84.75
+      y: 6.25
+  distance_from_chip_to_cam: #distance from the center of the chip to where we place the image for capture
+    x: 7.5
+    y: -7.5
+  distance_to_clamshell:
+    tweezer:
+      z: 16.5
+    vacuum:
+      z: 24
+camera:
+  - image:
+      crop: # percent crop in each direction
+        top: 10
+        bottom: 10
+        left: 0
+        right: 0
+      offset_from_bottom_left: # offset in mm
+        x: 0
+        y: 0
+    name: "wide"
+  - name: "short"
+    height: 25.945 #in mm so 18.5 pixels per mm at 600x480
+    width: 20.756 #in mm so 18.5 pixels per mm at 600x480
+algo:
+  edge_detection:
+    step_size: 10 # amount to move between each picture
+pathing:
+  machine_learning:
+    object_detection:
+      class_defs: "new_class_spec.yaml"
+      weights: "second_best.pt"
+      confidence_thresh: 0.5
+  output_path: "src/output.png"

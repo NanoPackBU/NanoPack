@@ -1,0 +1,6 @@
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\NanoPackUI.exe
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\Images\NanoPack_Logo.png
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\NanoPackUI.dll
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\NanoPackUI.deps.json
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\NanoPackUI.runtimeconfig.json
+C:\Users\dbids\NanoView_G33\src\NanoPackUI\bin\publish\NanoPackUI.pdb

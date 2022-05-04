@@ -1,0 +1,33 @@
+//Explanation of TinyG config parameters
+
+st          //Switch type for homing, 0=Normally Open, 1=Normally closed
+mt          //Motor Power Timeout, # seconds motors remained powered after last event
+jv          //JSON Return Message Verbosity, 3=Returns footer, messages, config commands
+js          //JSON Strictness, 1=strict, see https://github.com/synthetos/TinyG/wiki/JSON-Operation#json-syntax-option---relaxed-or-strict
+tv          //Text Mode Return Message Verbosity, 1=verbose
+qv          //Queue Report Verbosity, 2=verbose.  Changes length of queue to hold incoming GCode commands
+sv          //Status Report Verbosity, 1=fitered automatic status reports turned on
+si          //Request status reports every X ms during movement
+gun         //Gcode default units, 0=in, 1=mm.
+Motor1ma    //Motor mapping to axis: X=0, Y=1, Z=2, A=3, B=4, C=5
+Motor1sa    //Step Angle for the motor = 360 degrees / steps_per_revolution
+Motor1tr    //Travel per Revolution: amount of distance per revolution, currently mapped to 1.25mm
+Motor1mi    //Microsteps, 8=1/8 stepping
+Motor1po    //Motor Polarity, 0=normal, 1=inverse
+Motor1pm    //Power Management Mode: 2=Motor is powered during machining cycle (any axis is moving) and for $mt seconds afterwards
+Xam         //Axis Mode, 1=standard, linear axes move in length units
+Xvm         //Max velocity the axis will move during G0 (mm/min)
+Xfr         //Max velocity the axis will move during feed-rate move (e.g. G1) in mm/min
+Xtn         //Travel Minimum: https://github.com/synthetos/TinyG/wiki/Homing-and-Limits-Description-and-Operation
+Xtm         //Travel Maximum: "
+Xjm         //Max jerk (derivative of acceleration) in mm/min^3
+Xjh         //Max homing jerk used to stop axis when it hits the switch
+Xsv         //Homing search velocity in mm/min
+Xlv         //Homing latch velocity in mm/min, set low for best positional accuracy
+Xlb         //Homing latch backoff, must be big enough to totally clear the switch
+Xzb         //Homing zero backoff, distance to backoff switch before setting coordinate to zero in mm
+ec          //Has to do with what character terminates a line, 0 just sends \n, 1 sends \r\n
+ee          //Enable character echo : 0=off
+ex          //Enable flow control, 1=Enable XON/XOFF flow control protocol
+Xsn         //Minimum limit switch mode: 0=disabled, 1=homing-only, 2=limit-only, 3=homing-and-limit
+Xsx         //Maximum limit switch mode: 

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7a35913-c403-48ca-bc29-0542cf1bfffa" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/.vs/NanoPack UI (draft)/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/.vs/NanoPack UI (draft)/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/.vs/NanoPack UI (draft)/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/.vs/NanoPack UI (draft)/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/Control_.NET_Only.py" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/Control_.NET_Only.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).dll" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).exe" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/ref/NanoPack UI (draft).dll" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/ref/NanoPack UI (draft).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.GenerateResource.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.GenerateResource.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).designer.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).designer.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).dll" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).pdb" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/ref/NanoPack UI (draft).dll" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/ref/NanoPack UI (draft).dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/NanoPack UI (draft).csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/NanoPack UI/NanoPack UI (draft)/obj/project.nuget.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21fhbbIaJzSyW7UgxwoFpTSMXZr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/first_prototype/Control.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Control" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="dev" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\justi\AppData\Local\Programs\Python\Python39\PyCharm_virtualenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_prototype" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_prototype/Control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7a35913-c403-48ca-bc29-0542cf1bfffa" name="Changes" comment="" />
+      <created>1638338123187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638338123187</updated>
+      <workItem from="1638338124633" duration="9887000" />
+      <workItem from="1641592667843" duration="5400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dev$Control.coverage" NAME="Control Coverage Results" MODIFIED="1638345864091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_prototype" />
+  </component>
+</project>

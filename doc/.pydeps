@@ -1,0 +1,16 @@
+[pydeps]
+
+exclude =
+    numpy*
+    numpy
+    system
+    collections
+    ctypes
+    System
+    *pep*
+    cv2.*
+    *importlib*
+    *toml*
+    serial.*
+
+##command: pydeps -o ./images/flowchart.svg -T svg --noshow --include-missing --rankdir BT ../src/Control.py

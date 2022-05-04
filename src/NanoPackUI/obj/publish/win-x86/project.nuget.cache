@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gqcdau0y2o0PonkG4WJ4KecO1hLGA+bZYmgb1sdRIQN2s8fND7rksiR9qhomAd886mFmjjghXC3wp7z3lY8ZIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dbids\\Documents\\NanoView_G33\\dev\\NanoPackUI\\NanoPack UI (draft)\\NanoPack UI (draft).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.15\\microsoft.netcore.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.15\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.15\\microsoft.aspnetcore.app.runtime.win-x86.5.0.15.nupkg.sha512",
+    "C:\\Users\\dbids\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\5.0.15\\microsoft.netcore.app.host.win-x86.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

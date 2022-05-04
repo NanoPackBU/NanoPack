@@ -1,0 +1,158 @@
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\NanoPack UI (draft)\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPack UI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\Images\NanoPack_Logo.png
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Properties.Resources.resources
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\Images\NanoPack_Logo.png
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Properties.Resources.resources
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\Desktop\NanoView_G33\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\Images\NanoPack_Logo.png
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Properties.Resources.resources
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\refint\NanoPack UI (draft).dll
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+\\ad\eng\users\j\e\jem2000\My Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\refint\NanoPack UI (draft).dll
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\Images\NanoPack_Logo.png
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Continue.resources
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Properties.Resources.resources
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\refint\NanoPack UI (draft).dll
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\Images\NanoPack_Logo.png
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).exe
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).deps.json
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.json
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).runtimeconfig.dev.json
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\bin\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.AssemblyReference.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Continue.resources
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Form1.resources
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Properties.Resources.resources
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.GenerateResource.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfoInputs.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).AssemblyInfo.cs
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).csproj.CoreCompileInputs.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\refint\NanoPack UI (draft).dll
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).pdb
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack UI (draft).genruntimeconfig.cache
+C:\Users\dbids\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\ref\NanoPack UI (draft).dll
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.Continue.resources
+C:\Users\justi\Documents\GitHub\NanoView_G33\dev\NanoPackUI\NanoPack UI (draft)\obj\Debug\net5.0-windows\NanoPack_UI__draft_.PathSelector.resources

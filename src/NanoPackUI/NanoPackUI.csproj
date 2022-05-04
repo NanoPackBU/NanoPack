@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>NanoPack_UI__draft_</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>nanopack_logo_small_vys_icon.ico</ApplicationIcon>
+    <PackageIcon>NanoPack_logo_small.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="nanopack_logo_small_vys_icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="\\ad\eng\users\d\b\dbids\Desktop\NanoPack_logo_small.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\NanoPack_Logo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,51 @@
+name: NanoPackEnv
+channels:
+  - conda-forge
+  - pytorch
+  - anaconda
+
+dependencies:
+# ml object detection
+  - python=3.9*   # or 2.7
+  - numpy>=1.18.5
+  - matplotlib>=3.2.2
+  - scipy>=1.4.1
+  - opencv>=4.1.2
+  - requests>=2.23.0
+  - pillow>=7.1.2
+  - pyyaml>=5.3.1
+  - pandas>=1.1.4
+  - seaborn>=0.11.0
+  - tqdm>=4.41.0
+  - pytorch::pytorch>=1.7.0
+  - pytorch::torchvision>=0.8.1
+  - pytorch::torchaudio
+  - pytorch::cpuonly
+  - tensorboard>=2.4.1
+  # export ml weights
+##Conflicts somewhere in here
+#   - onnx>=1.9.0 # used for mobel
+#   - scikit-learn>=0.19.2
+#   - tensorflow>=2.4.1
+#   - pip
+#   - pip:
+#       - onnx-simplifier>=0.3.6
+#       - tensorflowjs>=3.9.0
+#       - openvino-dev
+# # rest of the project
+  # - pytesseract # for number recognition
+  - pyserial
+  - pyinstaller
+
+
+
+# Export --------------------------------------
+
+# openvino-dev  # OpenVINO export
+
+# Extras --------------------------------------
+# albumentations>=1.0.3
+# Cython  # for pycocotools https://github.com/cocodataset/cocoapi/issues/172
+# pycocotools>=2.0  # COCO mAP
+# roboflow
+# thop  # FLOPs computation
