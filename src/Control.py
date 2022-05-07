@@ -10,11 +10,6 @@ from tinyg import tinyg
 import loop_functions as lf
 
 
-# import chip finding object detection
-# pathToChipImg  = p.make_path(["dev","machine_learning","chip_img_movement"])
-# sys.path.insert(1, pathToChipImg)
-
-
 if __name__ == '__main__':
     
     ## DISABLE USER INTERFACE
@@ -79,6 +74,12 @@ if __name__ == '__main__':
             lf.CloseSteps(tgo, headless_mode, pipe, cam_wide, cam_short, 'CSVError')
         except:
             pass
+    except AttributeError:
+        cf.PrintDetailedException()
+        try:
+            lf.CloseSteps(tgo, headless_mode, pipe, cam_wide, cam_short, 'Camera Likely Not Connected')
+        except:
+            pass
     except SystemExit:
         print("Exited normally")
         try:
@@ -89,17 +90,8 @@ if __name__ == '__main__':
         except:
             pass
     except Exception as e:
-        # Courtesy of https://stackoverflow.com/questions/4690600/python-exception-message-capturing
         print("\n...................................EXCEPTION...................................")
-        ex_type, ex_value, ex_traceback = sys.exc_info()
-        trace_back = traceback.extract_tb(ex_traceback)
-        stack_trace = list()
-        for trace in trace_back:
-            stack_trace.append(
-                "File : %s , Line : %d, Func.Name : %s, Message : %s" % (trace[0], trace[1], trace[2], trace[3]))
-        print("Exception type : %s " % ex_type.__name__)
-        print("Exception message : %s" % ex_value)
-        print("Stack trace : %s" % stack_trace)
+        cf.PrintDetailedException()
         try:
             lf.CloseSteps(tgo, headless_mode, pipe, cam_wide, cam_short, 'Other Error')
         except:

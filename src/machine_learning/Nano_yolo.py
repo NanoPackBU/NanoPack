@@ -86,8 +86,14 @@ class CustomYolo:
                             )
 
         dicOfCos = convert_out_tensor_to_dic(cos, self.class_definition, self.DEBUG)
+
         # merge_too_close(dicOfCos)
         if self.DEBUG:
+            print("pre-merge")
+            drawData(dicOfCos, img)
+        merge_too_close(dicOfCos,DEBUG =  self.DEBUG,img = img)
+        if self.DEBUG:
+            print("post-merge")
             drawData(dicOfCos, img)
         dicOFMM = convertFileToMmCos(dicOfCos, bedwidthmm=bed_width,
                                      beddepthmm=bed_depth,
@@ -288,6 +294,6 @@ def drawData(dic, img):
     dx = img.shape[1]
     img = cv2.resize(img, (dx, dy))
     for i in dic:
-        img = cv2.circle(img, (int(i["X_center"] * dx), int((1-i["Y_center"]) * dy)), 5, (0, 0, 255), -1)
+        img = cv2.circle(img, (int((1-i["X_center"]) * dx), int((i["Y_center"]) * dy)), 5, (0, 0, 255), -1)
     cv2.imshow("testUnitConversion", img)
     cv2.waitKey(1000)

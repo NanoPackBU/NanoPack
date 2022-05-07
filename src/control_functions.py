@@ -1,6 +1,7 @@
 import cv2
 import os
-
+import sys
+import traceback
 
 # Error States
 class TooFewClamshells(Exception):
@@ -132,3 +133,15 @@ def ApproxWhichClamshellRow(approxLoc, move_obj):
     min_index = diff_list.index(min(diff_list)) + 1
     print(f"Found row {min_index}")
     return min_index, move_obj.config["physical"]["constraints"]["clamshell_r" + str(min_index) + "_top"]
+
+# Courtesy of https://stackoverflow.com/questions/4690600/python-exception-message-capturing
+def PrintDetailedException():
+    ex_type, ex_value, ex_traceback = sys.exc_info()
+    trace_back = traceback.extract_tb(ex_traceback)
+    stack_trace = list()
+    for trace in trace_back:
+        stack_trace.append(
+            "File : %s , Line : %d, Func.Name : %s, Message : %s" % (trace[0], trace[1], trace[2], trace[3]))
+    print("Exception type : %s " % ex_type.__name__)
+    print("Exception message : %s" % ex_value)
+    print("Stack trace : %s" % stack_trace)

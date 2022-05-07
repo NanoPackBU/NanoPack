@@ -17,13 +17,10 @@ else:
 def InitSteps(tgo, move_obj, headless):
     print("\n...................................Initial Setup...................................")
 
-    # Start the warmup camera 'thread'
-    # global cam_th
-    # cam_th = tinyg.TinygThread(target=start_cam, args=[move_obj])
-
-    # cam_th.start()
+    # Start cameras
     wide, short = move_obj.start_cam()
-    # ret,_ = move_obj.cam_short.read()
+
+    # Remove tinyg log that appends
     cf.remove_log(headless)
 
     # .NET Pipe
@@ -78,9 +75,6 @@ def InitSteps(tgo, move_obj, headless):
     # Move to the beginning of the box
     cf.MoveOutOfTheWay(tgo, move_obj)
 
-    # Wait for the warmup camera 'thread' to complete
-    # cam_th.join()
-
     return pipe, csvLstDict, wide, short, usingTweezer
 
 
@@ -88,32 +82,11 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
     # Find General Locations of Traveler and Clamshells (YOLO)
     x_of_traveler_in_bed, y_of_traveler_in_bed, clamshellLocs = move_obj.find_general_loc(cam_wide, attempts=3)
     
-    # TEMP FIXED CLAMSHELL LOCS
-    # clamshellLocs = []
-    # for i in range(4):
-    #     temp = {}
-    #     temp['Class'] = 'Clamshell'
-    #     temp['X_center'] = 275
-    #     temp['Y_center'] = move_obj.config["physical"]["constraints"]["clamshell_r" + str(i+1) + "_center"]
-    #     clamshellLocs.append(temp)
-    
     print("DONE ML :", x_of_traveler_in_bed, y_of_traveler_in_bed, clamshellLocs, "\n\n\n\n")
 
     # Find Traveler Precise Location (Edge Detection)
     trav_top_x, trav_top_y = move_obj.find_top_traveler(tgo, cam_short, (x_of_traveler_in_bed, y_of_traveler_in_bed))
-    
-    # TEMP FIXED TRAVELER
-    # trav_top_x = move_obj.config["physical"]["constraints"]["traveler"]["x"]
-    # trav_top_y = 256.75
-    # clamshellLocs = [{"X_center" : 100, "Y_center" : 100 }]
-
     topx, topy = move_obj.traveller_chip_start(trav_top_x, trav_top_y)
-
-    # TEMP: TEST TOP LEFT
-    # tgo.MoveLinear(300, topx*move_obj.X_FAC, topy*move_obj.Y_FAC, None, None)
-    # img = move_obj.readImg(cam_short, 2, reticle=True)
-    # cv2.imshow("cap top left", img)
-    # cv2.waitKey(0)
 
     # Data Structures for Loop
     wrongChips = []
@@ -150,14 +123,6 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
         cv2.imshow("cap chip", img)
         cv2.waitKey(1000)
 
-        # Verify a chip exists in that location
-        chipExists = True
-
-        # If chip doesn't exist save to list of wrong chips
-        if not chipExists:
-            cf.AddToWrongList(wrongChips, chip, "ExistenceException")
-            continue
-
         # Verify Number of Chip in that location
         img = move_obj.readImg(cam_short, 2, reticle=True)
         cv2.putText(img,'Chip Guess ', (int(img.shape[0]*0.2),int(img.shape[1]*0.1)), cv2.FONT_HERSHEY_SIMPLEX, 
@@ -174,11 +139,12 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
                     1, (0,0,255), 1, cv2.LINE_AA)
             cv2.imwrite("output.png", img)
         except:
-            ex_type, ex_value, ex_traceback = sys.exc_info()
+            # Likely a chip doesnt exist in that location
+            # Or number of digits found is greater than 3
             print("NUMBER RECOGNTION ERROR")
-            print("Exception type : %s " % ex_type.__name__)
-            print("Exception message : %s" % ex_value)
-            chipCorrect=False
+            cf.PrintDetailedException()
+            cf.AddToWrongList(wrongChips, chip, "ExistenceException")
+            continue    
 
         # Number not recognized
         if not chipCorrect:
@@ -189,8 +155,10 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
                 buf = pipe.read()
                 if str(buf) == "DontIgnore":
                     cf.AddToWrongList(wrongChips, chip, "Chip ID not recognized by ML")
+                    continue
             else:
                 cf.AddToWrongList(wrongChips, chip, "Chip ID not recognized by ML")
+                continue
 
         # Determine that the clamshell is present
         if (numClamshellFound - 1) <= chip['Chip Package Number']:
@@ -216,14 +184,6 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
             packedClams[chip['Chip Package Number']][5] = clam_top_y
 
         # Drop off the Chip
-        # print("############ TEST ############")
-        # print(f"chip['Position In Chip Package'] {chip['Position In Chip Package']}, packedClams[chip['Chip Package Number']][4] {packedClams[chip['Chip Package Number']][4]}, \
-        #     packedClams[chip['Chip Package Number']][5] {packedClams[chip['Chip Package Number']][5]}, usingTweezer{usingTweezer}")
-        # tgo.MoveLinear(300, clam_top_x * move_obj.X_FAC, clam_top_y * move_obj.Y_FAC, None, None)
-        # img = move_obj.readImg(cam_short, 2, reticle=True)
-        # cv2.imshow("cap top left", img)
-        # cv2.waitKey(0)
-        # return
         cf.DropOffChip(tgo, move_obj, chip['Position In Chip Package'], packedClams[chip['Chip Package Number']][4], \
             packedClams[chip['Chip Package Number']][5], usingTweezer)
 
@@ -243,8 +203,8 @@ def ControlLoop(tgo, move_obj, pipe, csvLstDict, cam_wide, cam_short, headless, 
     cf.WriteErrors(wrongChips, "./chip_error.log")
 
 
-def CloseSteps(tgo, headless, pipe=None, cam_wide=None, cam_short=None, errorCode=None):
-    print("Running close steps")
+def CloseSteps(tgo, headless, pipe=None, cam_wide=None, cam_short=None, errorCode=""):
+    print("Running close steps with error code " + errorCode)
 
     # Close Pipe
     if isWindows and not headless and pipe is not None:

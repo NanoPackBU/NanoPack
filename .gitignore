@@ -1,0 +1,32 @@
+# Executables
+*creds.json
+bin/**
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+# Python Caches
+*__pycache__*
+dev/NanoPack UI/.vs/NanoPack UI (draft)/v17/.suo
+dev/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).dll
+dev/NanoPack UI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).pdb
+dev/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).csproj.AssemblyReference.cache
+dev/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).dll
+dev/NanoPack UI/NanoPack UI (draft)/obj/Debug/net5.0-windows/NanoPack UI (draft).pdb
+dev/motor_control/tinyg/test.cpp
+dev/motor_control/tinyg/pySerialFunction.py
+dev/motor_control/tinyg/.tinyg.py.un~
+dev/motor_control/tinyg/tinyg.py~
+*tinyg.log
+#fuck macs
+*.DS_Store
+*.icloud
+*output_imgs/
+# *raw_Images/
+*Labeling/images/
+*training_data/images/
+dev/NanoPackUI/NanoPack UI (draft)/bin/Debug/net5.0-windows/NanoPack UI (draft).dll
+src/path.txt
+src/helperscripts/Quicktest.csv
+*.dll
